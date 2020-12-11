@@ -1,0 +1,24 @@
+.item{
+  display:flex;
+  background-image: linear-gradient(to right, pink, cyan, yellow);
+  justify-content: center;
+}
+
+h2:hover{
+  background-color: darkcyan;
+}
+p:hover{
+  background-color: yellow;
+}
+a:hover{
+  background-color: blue;
+}
+a:link{
+  background-color: green;
+}
+a:visited{
+  background-color:lightgreen;
+}
+a:active{
+  background-color: red;
+}
